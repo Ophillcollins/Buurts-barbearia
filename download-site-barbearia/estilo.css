@@ -1,0 +1,118 @@
+body {
+    color:#f4d292;
+    background-color: #0a0a0a;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('img/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+img {
+    background-size: auto;
+}
+
+div {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    text-align: center;
+    background-size: contain;
+    background-repeat: repeat;
+    border: 30px 45px;
+    padding: 20px;
+}
+
+
+h1 {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #f1f1f7;
+    background-color: #0a0a0a;
+    padding: 20px;
+    border-top: 5px solid #f6f6fc;
+    border-bottom: 5px solid #fcfdfd;
+    border-radius: 20px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #edf5f3;
+    margin-top: 4px ;
+    margin-bottom: 4px;
+    border-top: 4px solid;
+    border-bottom: 4px solid;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    color: #f1faf8;
+    padding: 20px 0;
+    margin-top: 30px;
+    border-top: 4px solid #f2f8f7;
+    border-bottom: 4px solid #eff5f4;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    line-height: 32px;
+    color: #fcfdfd;
+    margin-bottom: 35px;
+}
+a {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 8px;
+    color: rgb(241, 250, 243);
+    background-color: rgb(11, 204, 11);
+    border-radius: 25px;
+}
+
+li {
+    font-size: 22px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 12px;
+}
+ .texto-destaque {
+     color: brown;
+     font-weight: bold;
+ }
+
+.conteudo {
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-size: contain;
+
+}
+
+iframe {
+    border-bottom: auto #0a0a0a;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 450px;
+}
+.texto-destaque{
+    color: red;
+}
+ 
+.redes-sociais, .link-instagram, .link-facebook, .imagem-rede-social{
+    text-align: center;
+    text-decoration: none;
+    border: auto solid;
+    background-size: contain;
+    width: 150px;
+    background-color: #0a0a0a;
+    }
